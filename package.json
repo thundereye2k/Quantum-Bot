@@ -1,0 +1,18 @@
+{
+	"name": "quantum-bot",
+	"version": "1.0.0",
+	"description": "The official Quantum Bot that you've seen in Quantum Survival's server.",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"author": "PassTheMayo",
+	"license": "MIT",
+	"dependencies": {
+		"dateformat": "^3.0.3",
+		"eris": "^0.8.5",
+		"humanize-duration": "^3.14.0",
+		"snekfetch": "^4.0.0",
+		"sqlite3": "^4.0.1"
+	}
+}
